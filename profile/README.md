@@ -17,6 +17,4 @@ WordLinea helps you build a personal vocabulary from what you read.
 - **Recognize it next time.** Saved words are highlighted when you meet them on another page.
 - **Answer a question whenever you like.** Review in the connected web app, with each answer saved as you go.
 
-读网页时按语境查词，留下原句和出处。下次遇见时认出它，随时答一道题。
-
 For help, visit [WordLinea Support](https://wordlinea.com/support) or email [support@wordlinea.com](mailto:support@wordlinea.com).
