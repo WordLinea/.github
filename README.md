@@ -10,6 +10,6 @@ Official organization profile and brand assets for [WordLinea](https://wordlinea
 - [Browse logos, banners, and sharing images](brand/README.md)
 - [Organization profile](profile/README.md)
 
-The kit includes 36 logo PNGs, two promotional compositions, two localized sharing images, and usage guidance.
+The kit includes 36 logo PNGs, two promotional compositions, an English sharing image, and usage guidance.
 
 [Website](https://wordlinea.com) · [Support](https://wordlinea.com/support) · [Contact](mailto:support@wordlinea.com)

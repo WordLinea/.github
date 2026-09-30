@@ -31,7 +31,6 @@ Every appearance and shape is available at **32, 64, 128, 256, 512, and 1024 px*
 | [Brand banner](banners/wordlinea-banner-1400x560.png) | 1400 × 560 PNG | Organization profile, README header, wide promotional placement |
 | [Compact tile](banners/wordlinea-tile-440x280.png) | 440 × 280 PNG | Compact promotional cards |
 | [English sharing image](social/wordlinea-en-1200x630.jpg) | 1200 × 630 JPEG | English link previews |
-| [Chinese sharing image](social/wordlinea-zh-1200x630.jpg) | 1200 × 630 JPEG | Chinese link previews |
 
 ![WordLinea banner](banners/wordlinea-banner-1400x560.png)
 
